@@ -7,7 +7,7 @@ ___
 ### - 🌱 I’m currently learning how to program in *Unity*, as one of my personal projects is to make a videogame.  
 ### - 👯 I’m looking to collaborate on C++, JavaScript, Python projects.
 ### - 👽 In my spare time, I like doing illustration designs, as it helps me develop my creative skills.
-<img align="right" alt="Coding" width="400" src="https://twitter.com/Santiag79758670/status/1780669890459791469/photo/1">
+<img align="right" alt="Coding" width="400" src="https://pbs.twimg.com/media/GLY10UrXMAAfIjR?format=jpg&name=4096x4096">
 
 ### - 📫 How to reach me:  
 - LinkedIn Profile: [(https://www.linkedin.com/in/santiago-gomez-cuevas-b088521a7/)](https://www.linkedin.com/in/santiago-gomez-cuevas-b088521a7/)
