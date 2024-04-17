@@ -1,8 +1,8 @@
 ## Hi there 👋
 ___
-### I am Santiago Gomez, electronic engineer from Bogotá, Colombia.
+### I am Santiago Gomez, an electronic engineer from Bogotá, Colombia.
 ___
-### I am somewhat new in this world of professional programing, so if you have any tips, share them with me, *they will be more than welcome*.
+### I am somewhat new in this world of professional programming, so if you have any tips, share them with me, *they will be more than welcome*.
 
 ### - 🌱 I’m currently learning how to program in *Unity*, as one of my personal projects is to make a videogame.  
 ### - 👯 I’m looking to collaborate on C++, JavaScript, Python projects.
