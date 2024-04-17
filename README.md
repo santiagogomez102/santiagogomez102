@@ -1,6 +1,6 @@
-## Hi there 👋
-___
-### I am Santiago Gomez, an electronic engineer from Bogotá, Colombia.
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)]
+## Hi there 👋, I am Santiago Gomez
+### A passionate electronic engineer from Bogotá, Colombia.
 ___
 ### I am somewhat new in this world of professional programming, so if you have any tips, share them with me, *they will be more than welcome*.
 
